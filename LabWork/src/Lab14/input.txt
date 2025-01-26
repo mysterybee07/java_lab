@@ -1,0 +1,3 @@
+Hello! This is a input file.
+Iam Biraj Pudasaini.
+Iam doing Java Lab.
